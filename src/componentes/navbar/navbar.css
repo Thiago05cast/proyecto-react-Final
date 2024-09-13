@@ -1,0 +1,41 @@
+.navbar{
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    margin: 0px;
+    gap: 00px;
+    align-items: center;
+    justify-content: center;
+    gap: 500px;
+    text-decoration: none;
+    
+}
+.categorias{
+    display: flex;
+    gap: 25px;
+    font-size: 18px;
+}
+
+.navbar a:hover{
+    background-color: white;
+    color: black;
+    
+
+}
+li{
+    color: black;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.carritoNav{
+    color: white;
+}
+
+.NavCart{
+    color: white;
+}

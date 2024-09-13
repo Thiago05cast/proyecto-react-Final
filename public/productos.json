@@ -1,0 +1,78 @@
+[
+
+{
+    "id":1,
+    "nombre": "Iphone 15",
+    "category":"Apple",
+    "precio":"1600000",
+    "stock":"10",
+    "imagen":"https://acdn.mitiendanube.com/stores/001/097/819/products/iphone-15-3361252bafb77e0a8e16968119613535-480-0.jpg",
+    "descripcion":"El iPhone 15 viene con la Dynamic Island, cámara gran angular de 48 MP, entrada USB-C y un resistente vidrio con infusión de color en un diseño de aluminio."
+},
+{
+    "id":2,
+    "nombre": "Xiaomi 14",
+    "category":"Xiaomi",
+    "precio":"620000",
+    "stock":"15",
+    "imagen":"https://http2.mlstatic.com/D_NQ_NP_675853-MLA73028453430_112023-O.webp",
+    "descripcion":"Conoce al Nuevo Xiaomi Redmi Note 13 Pro 4g!! Diseño elegante y Rendimiento excepcional, con una super cámara principal de 200 Mpx para capturar todos tus momentos especiales"
+},
+{
+    "id":3,
+    "nombre": "S24 Ultra",
+    "category":"Samsung",
+    "precio":"1850000",
+    "stock":"10",
+    "imagen":"https://dcdn.mitiendanube.com/stores/001/555/911/products/s24-ultra-512-violeta-ff76c6bb308ac8fd6d17102616191276-640-0.jpg",
+    "descripcion":"Fotografía profesional en tu bolsillo Descubre infinitas posibilidades para tus fotos con las 4 cámaras principales de tu equipo. Capacidad y eficiencia Con su potente procesador y memoria RAM de 12 GB tu equipo alcanzará un alto rendimiento con gran velocidad de transmisión de contenidos y ejecutará múltiples aplicaciones a la vez sin demoras."
+},
+{
+    "id":4,
+    "nombre": "Moto G14",
+    "category":"Motorola",
+    "precio":"250000",
+    "stock":"13",
+    "imagen":"https://http2.mlstatic.com/D_NQ_NP_958483-MLU75650618690_042024-O.webp",
+    "descripcion":"Conozca el Motorola Moto G14, un teléfono inteligente que redefine la eficiencia y la conectividad. Con su pantalla LCD IPS, disfrute de imágenes nítidas y colores vibrantes. Manténgase conectado con la velocidad de la red 4G. Disfruta del rendimiento con un procesador compuesto por 8 núcleos. Capture momentos con las cámaras duales trasera y frontal que se combinan para ofrecer una calidad de 1080p."
+},
+{
+    "id":5,
+    "nombre": "Iphone 14 Pro Max",
+    "category":"Apple",
+    "precio":"1100000",
+    "stock":"17",
+    "imagen":"https://ar.oneclickstore.com/wp-content/uploads/2023/06/iPhone_14_Pro_Max_Silver_PDP_Image_Position-1a_MXLA.jpg",
+    "descripcion":"El iPhone 14 Pro Max te permite captar detalles increíbles gracias a su cámara gran angular de 48 MP. Además, trae la Dynamic Island y una pantalla siempre activa, para que puedas interactuar con tu iPhone de una forma completamente nueva. Y viene con Detección de Choques(1), una funcionalidad de seguridad que pide ayuda cuando no estás en condiciones de hacerlo."
+},
+{
+    "id":6,
+    "nombre": "Redmi Note 11 ",
+    "category":"Xiaomi",
+    "precio":"186990",
+    "stock":"9",
+    "imagen":"https://http2.mlstatic.com/D_NQ_NP_2X_723360-MLA52140415844_102022-F.webp",
+    "descripcion":"Experiencia visual increíble, Mirá tus series y películas favoritas con la mejor definición a través de su pantalla AMOLED de 6.43. Disfrutá de colores brillantes y detalles precisos en todos tus contenidos."
+},
+{
+    "id":7,
+    "nombre": "Samsung A55",
+    "category":"Samsung",
+    "precio":"999900",
+    "stock":"11",
+    "imagen":"https://http2.mlstatic.com/D_NQ_NP_976895-MLU77500283258_072024-O.webp",
+    "descripcion":"Capacidad y eficiencia,Con su potente procesador y memoria RAM de 8 GB tu equipo alcanzará un alto rendimiento con gran velocidad de transmisión de contenidos y ejecutará múltiples aplicaciones a la vez sin demoras"
+},
+{
+    "id":8,
+    "nombre": "Moto G22",
+    "category":"Motorola",
+    "precio":"435000",
+    "stock":"14",
+    "imagen":"https://images.bidcom.com.ar/resize?src=https://www.bidcom.com.ar/publicacionesML/productos/CMOTG22X/1000x1000-CMOTG22X.jpg&h=400&q=100",
+    "descripcion":"Las imágenes cobran vida con el moto G22. Capturá cada momento a la perfección gracias al sistema de cuatro cámaras con sensor principal de 50 MP*. Disfrutá la pantalla ultra wide Max Vision HD+ de 6.5 y 90 Hz. Desempeño potente y eficiente con128 GB* de almacenamiento para guardar tus fotos, películas, canciones, aplicaciones y juegos. Realizá muchas tareas con Android™* 12 y aprovechá tu teléfono al máximo gracias a la batería de 5000 mAh y carga TurboPower™*. Descubrí un mundo de posibilidades. Seguí adelante con moto G."
+}
+
+
+
+]
